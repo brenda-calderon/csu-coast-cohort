@@ -21,3 +21,5 @@ Have you noticed the `[]()` pattern to make links in Markdown? Put words to hype
 We can include an image with the same format, but note the preceding exclamation point: `![]()` *(From the browser, you'll need an image with an existing url).* 
 
 ![](https://octodex.github.com/images/labtocat.png)
+
+(![catscience_400x400](https://user-images.githubusercontent.com/84409736/119194161-860e8c00-ba37-11eb-9c36-0231cecb7851.jpeg)
